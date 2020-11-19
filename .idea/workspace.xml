@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed Opdracht files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed Opdracht2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
       <workItem from="1605779150915" duration="1556000" />
       <workItem from="1605785805681" duration="68000" />
       <workItem from="1605785986493" duration="3187000" />
-      <workItem from="1605789932024" duration="1644000" />
+      <workItem from="1605789932024" duration="1938000" />
     </task>
     <task id="LOCAL-00001" summary="Begin of HTML...">
       <created>1605780226335</created>
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605789523044</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changed Opdracht2">
+      <created>1605791919627</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605791919627</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +151,9 @@
     <MESSAGE value="added Opdracht1" />
     <MESSAGE value="added Opdracht files" />
     <MESSAGE value="changed Opdracht files" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed Opdracht files" />
+    <MESSAGE value="added Opdracht2" />
+    <MESSAGE value="changed Opdracht2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed Opdracht2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605789574094">
