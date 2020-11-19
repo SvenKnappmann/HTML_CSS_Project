@@ -10,11 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed Opdracht2">
-      <change afterPath="$PROJECT_DIR$/Opdracht2/Maak kennis met Rick/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht2/secondpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opdracht2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdracht2/index.html" afterDir="false" />
+    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed Opdracht2 2nd time">
+      <change afterPath="$PROJECT_DIR$/Opdracht2/Stok/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdracht2/secondpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdracht2/secondpage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <workItem from="1605779150915" duration="1556000" />
       <workItem from="1605785805681" duration="68000" />
       <workItem from="1605785986493" duration="3187000" />
-      <workItem from="1605789932024" duration="4601000" />
+      <workItem from="1605789932024" duration="5006000" />
     </task>
     <task id="LOCAL-00001" summary="Begin of HTML...">
       <created>1605780226335</created>
@@ -148,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605791989076</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="changed Opdracht2 2nd time">
+      <created>1605794920464</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605794920464</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,12 +180,13 @@
     <MESSAGE value="changed Opdracht files" />
     <MESSAGE value="added Opdracht2" />
     <MESSAGE value="changed Opdracht2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed Opdracht2" />
+    <MESSAGE value="changed Opdracht2 2nd time" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed Opdracht2 2nd time" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605791992995">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605794925777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1080.-848.1080.1880@0.0.1536.824" timestamp="1605791992995" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1080.-848.1080.1880@0.0.1536.824" timestamp="1605794925777" />
   </component>
 </project>
