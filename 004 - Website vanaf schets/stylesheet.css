@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+nav {
+    margin-top: 20px;
+    background-color: black;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-right: 2px solid white;
+    padding: 10px;
+}
+div.fitting {
+    width: 1200px;
+    margin: auto;
+}
+article {
+    float: left;
+    width: 49%;
+    margin-right: 2%;
+}
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table {
+    width: 49%;
+}
+td {
+    width: 100px;
+    height: 50px;
+}
+td.center {
+    text-align: center;
+}
+td.groen {
+    background-color: #ccffcc;
+}
+td.blauw {
+    background-color: #ccffff;
+}
