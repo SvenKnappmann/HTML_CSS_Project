@@ -1,0 +1,25 @@
+div.fitting {
+    width: 960px;
+    margin: auto;
+}
+nav a {
+    color: white;
+}
+body {
+    background-color: yellow;
+    padding: 20px;
+}
+header {
+    margin-bottom: 30px;
+    background-color: red;
+}
+main {
+    background-color: green;
+    border: black solid 1px;
+}
+footer {
+    background-color: black;
+
+    padding: 20px;
+}
+
