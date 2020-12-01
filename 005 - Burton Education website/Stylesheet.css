@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+div#fitting, footer{
+    margin: auto;
+    width: 1000px;
+    background-color: rgb(251,235,235);
+    padding: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 24px;
+}
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+nav a {
+    margin-right: 20px;
+}
+section.appel, section.pict {
+    width: 50%;
+    float: left;
+}
+section.pict {
+    text-align: right;
+}
+section.art {
+}
+img.appel {
+    width: 497px;
+}
+img.pict {
+    width: 447px;
+    margin-bottom: 13px;
+}
+article {
+    display: inline-block;
+    width: 33%;
+    padding-right: 15px;
+    vertical-align: top;
+}
+img.article {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 303px;
+
+}
+article:last-child {
+    padding-right: 0;
+}
+footer {
+    background-color: rgb(166,166,166);
+    color: white;
+}
+footer a {
+    color: white;
+}
