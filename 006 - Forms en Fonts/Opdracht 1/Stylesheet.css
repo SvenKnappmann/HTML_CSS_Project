@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+div#fitting {
+    margin: auto;
+    width: 1000px;
+    background-color: rgb(251,235,235);
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 24px;
+    padding: 20px;
+}
+header {
+    padding: 20px;
+}
+nav {
+    padding-left: 20px;
+}
+nav a {
+    margin-right: 20px;
+}
+section.appel, section.pict {
+    padding: 20px;
+    width: 50%;
+    float: left;
+}
+section.pict {
+    text-align: right;
+}
+section.art {
+    padding: 20px;
+}
+img.appel {
+    width: 497px;
+}
+img.pict {
+    width: 447px;
+    margin-bottom: 13px;
+}
+article {
+    display: inline-block;
+    width: 33%;
+    padding-right: 15px;
+    vertical-align: top;
+}
+img.article {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 303px;
+
+}
+article:last-child {
+    padding-right: 0;
+}
+footer {
+    background-color: rgb(166,166,166);
+    color: white;
+    padding: 20px;
+}
+footer a {
+    color: white;
+}
