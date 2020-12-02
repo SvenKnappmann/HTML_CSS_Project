@@ -10,26 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed H004/Opdracht 1, 2, 3">
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/Stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/appel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/appel_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/burton_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/burton_logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/bus_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/desk_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/pythagoras.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005 - Burton Education website/img/pythagoras_small.jpg" afterDir="false" />
+    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="added H005">
+      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005 - Burton Education website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Burton Education website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005 - Burton Education website/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/005 - Burton Education website/Stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +104,8 @@
       <workItem from="1606814402443" duration="954000" />
       <workItem from="1606815446407" duration="2810000" />
       <workItem from="1606822683284" duration="3752000" />
-      <workItem from="1606826629433" duration="3090000" />
+      <workItem from="1606826629433" duration="3155000" />
+      <workItem from="1606894905455" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="Begin of HTML...">
       <created>1605780226335</created>
@@ -297,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606297517105</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added H005">
+      <created>1606830057419</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606830057419</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +331,7 @@
     <MESSAGE value="added H004/Opdracht 1" />
     <MESSAGE value="added H004/Opdracht 1, 2, 3" />
     <MESSAGE value="changed H004/Opdracht 1, 2, 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed H004/Opdracht 1, 2, 3" />
+    <MESSAGE value="added H005" />
+    <option name="LAST_COMMIT_MESSAGE" value="added H005" />
   </component>
 </project>
