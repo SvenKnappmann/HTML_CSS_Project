@@ -1,11 +1,36 @@
-form ul {
-    list-style-type: none; 
-    padding: 0;
+* {
+    border: dotted 1px gray;
 }
-form ul li {
-    padding: 10px;
+
+body {
+    margin: 0;
+    padding: 30px;
 }
-form ul li input {
-    position: absolute;
-    left: 150px;
+form {
+    display: grid;
+    grid-template-columns: 10% 39% 6% 45%;
+}
+#span1to5 {
+    grid-column: 1/5;
+}
+.span2to5  {
+    grid-column: 2/5;
+}
+.span2to4 {
+    grid-column: 2/4;
+}
+#span4to5 {
+    grid-column: 4/5;
+}
+.textalign {
+    vertical-align: top;
+}
+#voornaam {
+    width: 200px;
+}
+#tussenvoegsel {
+    width: 200px;
+}
+#achternaam {
+    width: 200px;
 }

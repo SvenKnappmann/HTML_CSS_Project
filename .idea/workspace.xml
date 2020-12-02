@@ -11,48 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="added H006">
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/Login/Stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/Login/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/Stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/appel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/appel_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/burton_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/burton_logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/bus_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/desk_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/pythagoras.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/img/pythagoras_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/Stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/appel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/appel_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/burton_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/burton_logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/bus_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/desk_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/pythagoras.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/img/pythagoras_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006 - Forms en Fonts/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006 - Forms en Fonts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Forms en Fonts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +109,9 @@
       <workItem from="1606822683284" duration="3752000" />
       <workItem from="1606826629433" duration="3155000" />
       <workItem from="1606894905455" duration="1408000" />
-      <workItem from="1606898247146" duration="6835000" />
+      <workItem from="1606898247146" duration="6856000" />
+      <workItem from="1606909162742" duration="1654000" />
+      <workItem from="1606910941898" duration="6784000" />
     </task>
     <task id="LOCAL-00001" summary="Begin of HTML...">
       <created>1605780226335</created>
@@ -346,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606896301157</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added H006">
+      <created>1606905603433</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1606905603433</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
