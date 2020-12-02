@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="added H006">
+    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed border H006">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/Stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,7 @@
       <workItem from="1606894905455" duration="1408000" />
       <workItem from="1606898247146" duration="6856000" />
       <workItem from="1606909162742" duration="1654000" />
-      <workItem from="1606910941898" duration="6784000" />
+      <workItem from="1606910941898" duration="7820000" />
     </task>
     <task id="LOCAL-00001" summary="Begin of HTML...">
       <created>1605780226335</created>
@@ -316,7 +315,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606905603433</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="changed H006">
+      <created>1606917863225</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1606917863225</updated>
+    </task>
+    <task id="LOCAL-00031" summary="changed border H006">
+      <created>1606918064656</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1606918064656</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,8 +348,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Opdracht1" />
-    <MESSAGE value="added Opdracht1" />
     <MESSAGE value="added Opdracht files" />
     <MESSAGE value="changed Opdracht files" />
     <MESSAGE value="added Opdracht2" />
@@ -360,6 +371,8 @@
     <MESSAGE value="fixed H005" />
     <MESSAGE value="changed title H005" />
     <MESSAGE value="added H006" />
-    <option name="LAST_COMMIT_MESSAGE" value="added H006" />
+    <MESSAGE value="changed H006" />
+    <MESSAGE value="changed border H006" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed border H006" />
   </component>
 </project>

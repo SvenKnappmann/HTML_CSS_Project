@@ -5,6 +5,7 @@ body {
 form {
     display: grid;
     grid-template-columns: 10% 39% 6% 45%;
+    grid-template-rows: 15% 10% 10% 10% 10% 10% 10% 45% 10%;
 }
 #span1to5 {
     grid-column: 1/5;
