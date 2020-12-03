@@ -10,14 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed border H006">
-      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/Stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/drums.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/gitaar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/saxofoon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/trompet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/truemusic-logo.svg" afterDir="false" />
+    <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="added H007">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007 - Responsive Website/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/007 - Responsive Website/Stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/007 - Responsive Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/007 - Responsive Website/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +116,9 @@
       <workItem from="1606984571933" duration="2301000" />
       <workItem from="1606987669067" duration="257000" />
       <workItem from="1606987939609" duration="3436000" />
+      <workItem from="1606991501832" duration="100000" />
+      <workItem from="1606995183551" duration="4482000" />
+      <workItem from="1607000500652" duration="4294000" />
     </task>
     <task id="LOCAL-00001" summary="Begin of HTML...">
       <created>1605780226335</created>
@@ -338,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606918064656</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added H007">
+      <created>1606991586540</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1606991586540</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +363,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added Opdracht files" />
     <MESSAGE value="changed Opdracht files" />
     <MESSAGE value="added Opdracht2" />
     <MESSAGE value="changed Opdracht2" />
@@ -382,6 +387,7 @@
     <MESSAGE value="added H006" />
     <MESSAGE value="changed H006" />
     <MESSAGE value="changed border H006" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed border H006" />
+    <MESSAGE value="added H007" />
+    <option name="LAST_COMMIT_MESSAGE" value="added H007" />
   </component>
 </project>
