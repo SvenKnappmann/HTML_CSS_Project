@@ -11,8 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c772f037-4e66-429a-aeee-91d70e430815" name="Default Changelist" comment="changed border H006">
+      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/Stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/drums.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/gitaar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/saxofoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/trompet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007 - Responsive Website/img/truemusic-logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/Stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2/Login/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007 - Responsive Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/007 - Responsive Website/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +45,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/006 - Forms en Fonts/Opdracht 2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/007 - Responsive Website" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\School\Webstorm Projects\HTML_CSS_Project\007 - Responsive Website" />
       <recent name="C:\School\Webstorm Projects\HTML_CSS_Project\006 - Forms en Fonts\Opdracht 2" />
       <recent name="C:\School\Webstorm Projects\HTML_CSS_Project\006 - Forms en Fonts" />
       <recent name="C:\School\Webstorm Projects\HTML_CSS_Project\005 - Burton Education website\img" />
       <recent name="C:\School\Webstorm Projects\HTML_CSS_Project\004 - Website vanaf schets\Opdracht 2" />
-      <recent name="C:\School\Webstorm Projects\HTML_CSS_Project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\School\Webstorm Projects\HTML_CSS_Project\006 - Forms en Fonts\Opdracht 1" />
@@ -111,6 +117,9 @@
       <workItem from="1606898247146" duration="6856000" />
       <workItem from="1606909162742" duration="1654000" />
       <workItem from="1606910941898" duration="7820000" />
+      <workItem from="1606984571933" duration="2301000" />
+      <workItem from="1606987669067" duration="257000" />
+      <workItem from="1606987939609" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="Begin of HTML...">
       <created>1605780226335</created>

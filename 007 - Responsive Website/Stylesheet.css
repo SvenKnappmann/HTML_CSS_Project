@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    background-color: rgb(250,241,234);
+}
+#fitting {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: rgb(193,240,223);
+}
+#drums {
+
+}
+#gitaar {
+
+}
+#saxofoon {
+
+}
+#trompet {
+
+}
+#contact {
+
+}
+nav {
+    background-color: rgb(128,128,128);
+    height: 200px;
+}
+a.nav {
+    color: white;
+    text-decoration: none;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+    padding:15px;
+    border: solid 1px white;
+    margin: 0;
+}
+h3 {
+    color: rgb(220,106,94);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px;
+}
+section {
+    padding-left: 20px;
+}
